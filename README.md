@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<br>
+<br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jane096&show_icons=true&theme=radical)
+
+<br>
+<br>
+
+⚡ Thank you for visiting my Github place! 
+
+<br>
+
+💬 **Email:** jes7077@gmail.com      
+🌱 **Github Blog:** <https://jane096.github.io/>    
+ 
+
+<br>
+<br>
