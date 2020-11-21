@@ -31,6 +31,3 @@ Here are some ideas to get you started:
 💬 **Email:** jes7077@gmail.com      
 🌱 **Github Blog:** <https://jane096.github.io/>    
  
-
-<br>
-<br>
