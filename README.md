@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 
 <br>
 
-💬 **Email:** jes7077@gmail.com      
+#### Contact Info
+
+💬 **Email:** jes7077@gmail.com  
+
+<br>
+
+#### 👩‍💻 글쓰는 것을 좋아해 꾸준히 올리는 중입니다 
+
 🌱 **Github Blog:** <https://jane096.github.io/>    
  
