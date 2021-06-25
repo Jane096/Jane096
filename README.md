@@ -1,40 +1,29 @@
-### Hi there 👋
-
-<!--
-**Jane096/Jane096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<br>
-<br>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jane096&show_icons=true&theme=radical)
-
-<br>
-<br>
-
-⚡ Thank you for visiting my Github place! 
+<h2 align="center"> :tropical_drink: Jane: Backend Developer :tropical_drink: </h3>
+<p align="center">👋 Thank you for visiting my Github place! </p>
+<p align="center">
+  <a href="https://jane096.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-FB3C9C?style=flat-square&logo=Blogger&logoColor=white&link=https://jane096.github.io/"/></a>&nbsp
+  <a href="mailto:jes7077@gmail.com"><img src="https://img.shields.io/badge/Gmail-FAFBFC?style=flat-square&logo=Gmail&logoColor=red&link=mailto:jes7077@gmail.com"/></a>
+</p>
 
 <br>
 
-#### Contact Info
-
-💬 **Email:** jes7077@gmail.com  
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-9E2DFC?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Redis-FC3222?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-2DA6FC?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Google cloud platform-4285F4?style=flat-square&logo=Google&logoColor=red"/></a>&nbsp 
+</p>
 
 <br>
 
-#### 👩‍💻 글쓰는 것을 좋아해 꾸준히 올리는 중입니다 
+<p align="center">
+  <a href="https://github.com/Jane096/github-readme-stats/"><img src="https://github-readme-stats.vercel.app/api?username=Jane096&show_icons=true&theme=radical"/></a>
+</p>
 
-🌱 **Github Blog:** <https://jane096.github.io/>    
+
+
  
