@@ -5,7 +5,6 @@
     <img src="http://img.shields.io/badge/-Tech%20Blog-FB3C9C?style=flat&logo=github&link=https://jane096.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>&nbsp
-  <a href="https://jagged-cupboard-d78.notion.site/Jane-Backend-Developer-3a8b0e365cb44a5b8fefc05915289091"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://jagged-cupboard-d78.notion.site/Jane-Backend-Developer-3a8b0e365cb44a5b8fefc05915289091"/></a>&nbsp
   <a href="mailto:jes7077@gmail.com"><img src="https://img.shields.io/badge/Gmail-FAFBFC?style=flat&logo=Gmail&logoColor=red&link=mailto:jes7077@gmail.com" 
                                           style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </p>
@@ -20,7 +19,7 @@
   <img src="https://img.shields.io/badge/Redis-FC3222?style=flat&logo=Redis&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2DA6FC?style=flat&logo=Docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Google cloud platform-4285F4?style=flat&logo=Google&logoColor=red" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Amazon Web Service-232F3E?style=flat&logo=amazonaws&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp 
 </p>
 
 <br>
