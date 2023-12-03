@@ -1,4 +1,4 @@
-<h2 align="center"> :tropical_drink: Jane: Backend Developer :tropical_drink: </h3>
+<h2 align="center"> 🍹 Jane: Backend Developer 🍹 </h2>
 <p align="center">👋 Thank you for visiting my Github place! </p>
 <p align="center">
   <a href="https://jane096.github.io/">
