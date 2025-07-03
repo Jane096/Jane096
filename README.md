@@ -6,6 +6,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>&nbsp
   <a href="mailto:jes7077@gmail.com"><img src="https://img.shields.io/badge/Gmail-FAFBFC?style=flat&logo=Gmail&logoColor=red&link=mailto:jes7077@gmail.com" 
+                                          style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/jieun-lee-a793231b8/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Codementor&logoColor=white&link=https://www.linkedin.com/in/jieun-lee-a793231b8/" 
                                           style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </p>
 
